@@ -257,5 +257,4 @@ Alongside these certifications, I've also have a basic understanding of CSS and 
 
 
 # Contact Information
-- **Email:** destaalem@example.com
 - **LinkedIn:** [Destaalem's LinkedIn](https://www.linkedin.com/in/destaalem-seyoum)
