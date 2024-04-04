@@ -31,6 +31,8 @@ The project is built on the idea of network security and analyzing traffic patte
 
 To run this project, you must have Python installed on your machine along with several pip installable libraries. Below are the installation commands for the required libraries:
 
-```bash
-pip install pyshark
-pip install pytest
+> 
+> pip install pyshark
+>
+> pip install pytest
+>
