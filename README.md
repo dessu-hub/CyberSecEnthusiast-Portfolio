@@ -1,6 +1,6 @@
 # Certified Cybersecurity Analyst
 
-Welcome to my Cybersecurity Portfolio. This repository showcases my knowledge, skills, and certifications in the cybersecurity domain. It includes detailed information on my certifications, coursework, projects, resume, educational background, utilizing a various cybersecurity tools, and additional certifications.
+Welcome to my Cybersecurity Portfolio. This repository showcases my knowledge, skills, and certifications in the cybersecurity domain. It includes detailed information on my certifications, coursework, projects, educational background, utilizing a various cybersecurity tools, and additional certifications.
 
 ## Table of Contents
 - [About me](#about-me)
@@ -132,7 +132,7 @@ In this comprehensive section, I document my journey through the Google Cybersec
 
 Completing these courses has not only solidified my knowledge and skills in cybersecurity but has also prepared me for real-world challenges, making me a valuable asset in any cybersecurity team. This journey has been both enlightening and empowering, setting a strong foundation for my future endeavors in cybersecurity.
 
-### Introduction to Programming with Python
+### CS50's Introduction to Programming with Python
 #### Overview
    In this section, I detail my engagement with CS50's Introduction to Programming with Python, a course that has significantly broadened my understanding of both foundational and advanced programming techniques. This learning experience has been pivotal in enhancing my problem-solving skills, data analysis, and cybersecurity.
 
@@ -177,7 +177,10 @@ Completing these courses has not only solidified my knowledge and skills in cybe
   > - **Et Cetera**
   >   - Additional topics such as list comprehensions, generator expressions, and decorators
   >   
-  >
+
+  - ***Final Project***
+    - [Network Traffic Analysis for DDoS Detection with Python](/assets/CS50’s-Introduction-to-Programming-with-Python-FinalProject)
+
   Through my studies, I've not only acquired a robust set of programming skills but also developed a deep appreciation for Python's power and flexibility. The journey through CS50's Python curriculum has been rewarding, equipping me with the tools to creatively solve problems and pursue further learning in technology and cybersecurity.
 
 ### Databases
