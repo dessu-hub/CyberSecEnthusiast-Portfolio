@@ -14,11 +14,11 @@ Welcome to my Cybersecurity Portfolio. This repository showcases my knowledge, s
 
 # About me
 
-Certified in cybersecurity and with Electrical and Computer Engineering background from Jimma University, I've begun developing my skills in network security, ethical hacking, and risk management through the Google Cybersecurity specialization. Eager for continuous learning, I am looking forward to contributing to a cybersecurity team that values innovation and collaboration, as I navigate the beginnings of my career in this exciting field.
+Certified in Google Professional Cybersecurity Certificate and with Electrical and Computer Engineering background from Jimma University, I've begun developing my skills in network security, ethical hacking, and risk management through the Google Cybersecurity specialization. Eager for continuous learning, I am looking forward to contributing to a cybersecurity team that values innovation and collaboration, as I navigate the beginnings of my career in this exciting field.
 
 # EDUCATION
 
-**Certificate in Cybersecurity, Google Cybersecurity**  
+**Google Professional Cybersecurity Certificate**  
 Coursera  
 March 2024
 
@@ -32,7 +32,7 @@ June 2016
 
 This section proudly showcases my certifications in cybersecurity, earned through rigorous courses from prestigious platforms and institutions. Each certification is briefly described, followed by a direct link to the document, and includes the date of achievement.
 
-- **Google Cybersecurity, Coursera** - March 22, 2024
+- **Google Professional Cybersecurity Certificate, Coursera** - March 22, 2024
   [View](/assets/google_cybersecurity_certification.pdf)
 
 - **Databases: Relational Databases and SQL, Stanford-edX** - August 28, 2023
