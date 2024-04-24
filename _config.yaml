@@ -1,10 +1,5 @@
 .jpgtitle: Destaalem Seyoum
-<<<<<<< HEAD
 logo: /assets/profile.jpeg
 description: Google Cybersecurity Certified
-=======
-logo: /assets/profile.png
-description: Certified Google Cybersecurity
->>>>>>> origin/main
 show_downloads: true
 theme: jekyll-theme-minimal
