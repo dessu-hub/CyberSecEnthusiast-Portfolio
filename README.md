@@ -1,4 +1,4 @@
-# Certified Cybersecurity Analyst
+# Certified Google Professional Cybersecurity
 
 Welcome to my Cybersecurity Portfolio. This repository showcases my knowledge, skills, and certifications in the cybersecurity domain. It includes detailed information on my certifications, coursework, projects, educational background, utilizing a various cybersecurity tools, and additional certifications.
 
