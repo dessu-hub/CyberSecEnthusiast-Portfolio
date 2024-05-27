@@ -42,7 +42,7 @@ This section proudly showcases my certifications in cybersecurity, earned throug
   [View](/assets/advanced_sql_topics_certification.pdf)
 
 - **CS50's Introduction to Programming with Python, Harvard-edX**
- [CS50](/assets/cs50_python_programming_certification.pdf)  [HarvardX](/https://courses.edx.org/certificates/e1c6def700604c6baf4e9dafbc63f9b8?_gl=1*8a46ip*_ga*NTM5OTI4NzA1LjE3MTIwMDAzNzM.*_ga_D3KS4KMDT0*MTcxNjgzMDMyMC4xMy4xLjE3MTY4MzAzMjkuNTEuMC4w))
+ [CS50](/assets/cs50_python_programming_certification.pdf)  [HarvardX](/https://courses.edx.org/certificates/e1c6def700604c6baf4e9dafbc63f9b8)
 
 - **Git for Distributed Software Development, Linux Foundation-edX** - October 2, 2023
   [View](/assets/git_distributed_development_certification.pdf)
