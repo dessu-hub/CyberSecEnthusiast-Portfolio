@@ -33,7 +33,7 @@ June 2016
 This section proudly showcases my certifications in cybersecurity, earned through rigorous courses from prestigious platforms and institutions. Each certification is briefly described, followed by a direct link to the document, and includes the date of achievement.
 
 - **Google Professional Cybersecurity Certificate, Coursera** - March 22, 2024
-  [View](/assets/google_cybersecurity_certification.pdf)
+  [View](https://www.coursera.org/account/accomplishments/professional-cert/HD47XFR2YN8E)
 
 - **Databases: Relational Databases and SQL, Stanford-edX** - August 28, 2023
   [View](https://courses.edx.org/certificates/fc54b57ab0d549afad847638777083be)
@@ -42,13 +42,13 @@ This section proudly showcases my certifications in cybersecurity, earned throug
   [View](https://courses.edx.org/certificates/021baebc48744b028a1a82e3f9d2a0d3)
 
 - **CS50's Introduction to Programming with Python, Harvard-edX**
- [CS50](/assets/cs50_python_programming_certification.pdf)  [HarvardX](https://courses.edx.org/certificates/e1c6def700604c6baf4e9dafbc63f9b8)
+ [CS50](https://certificates.cs50.io/b5ef1ee9-6378-48b3-99e2-8bb00747932e.pdf?size=letter)  [HarvardX](https://courses.edx.org/certificates/e1c6def700604c6baf4e9dafbc63f9b8)
 
 - **Git for Distributed Software Development, Linux Foundation-edX** - October 2, 2023
   [View](https://courses.edx.org/certificates/e1cac93f280546419cda0e9a43061ec0)
 
 - **Nmap for Ethical Hackers, Udemy** - February 19, 2024
- [View](/assets/nmap_for_ethical_hackers.pdf)
+ [View](https://www.udemy.com/certificate/UC-e8317628-7c63-4303-a799-5a3a9fa4a0e0)
 
 - **CCNA Routing and Switching, Cisco** - June 30, 2016 
   [Hard-copy](/assets/ccna_routing_switching_certification.pdf)
@@ -60,12 +60,12 @@ In this comprehensive section, I document my journey through the Google Cybersec
 
 ### Course Details and Skills Acquired
 
-- **Foundations of Cybersecurity**    [View certification](/assets/Foundations-of-Cybersecurity_certification.pdf)
+- **Foundations of Cybersecurity**    [View certification](https://www.coursera.org/account/accomplishments/verify/SQGVD2LGVSJN)
   - Explored the cybersecurity profession, historical attacks, and the development of the field.
   - **Skills Gained**: Cybersecurity, Information Security (INFOSEC), Ethics in Cybersecurity, NIST Cybersecurity Framework (CSF).
 
 
-- **Play It Safe: Manage Security Risks**  [View certification](/assets/Manage-Security-Risks_certification.pdf)
+- **Play It Safe: Manage Security Risks**  [View certification](https://www.coursera.org/account/accomplishments/verify/9M9WDDA3BMHW)
   - Focused on the application of frameworks and controls to safeguard business operations, including an in-depth study of the Eight CISSP security domains.
   - **Skills Gained**: Information Security (INFOSEC), NIST Risk Management Framework (RMF), Security Audits, NIST Cybersecurity Framework (CSF), Incident Response Playbooks, Eight CISSP Security Domains.
     >
@@ -81,7 +81,7 @@ In this comprehensive section, I document my journey through the Google Cybersec
          - [Stakeholder-memorandum](/assets/Play-It-Safe_Manage-Security-Risks/Stakeholder-memorandum.pdf)
      >
 
-- **Connect and Protect: Networks and Network Security**  [View certification](/assets/Networks-and-Network-Security_certification.pdf)
+- **Connect and Protect: Networks and Network Security**  [View certification](https://www.coursera.org/account/accomplishments/verify/L694PPLS5BZ2)
   - Gained insights into network-level vulnerabilities and security hardening techniques.
   - **Skills Gained**: Security Hardening, Network Security, TCP/IP, Network Architecture, Cloud Networks.
   > 
@@ -93,7 +93,7 @@ In this comprehensive section, I document my journey through the Google Cybersec
       - [Incident report analysis](/assets/Connect-and-Protect_Network-Security/Incident%20report%20analysis.pdf)
   
 
-- **Tools of the Trade: Linux and SQL**  [View certification](/assets/Linux-and-SQL_certification.pdf)
+- **Tools of the Trade: Linux and SQL**  [View certification](https://www.coursera.org/account/accomplishments/verify/V65LKHBC98T9)
   - Developed foundational computing skills with Linux and SQL.
   - **Skills Gained**: Command Line Interface (CLI), SQL, Linux, Bash
   >
@@ -106,18 +106,18 @@ In this comprehensive section, I document my journey through the Google Cybersec
       - [Sql-filters-queries.pdf](/assets/Tools-of-the-Trade_Linux-and-SQL/sql-filters-queries.pdf)
 
 
-- **Assets, Threats, and Vulnerabilities**  [View certification](/assets/Assets-Threats-Vulnerabilities_certification.pdf)
+- **Assets, Threats, and Vulnerabilities**  [View certification](https://www.coursera.org/account/accomplishments/verify/4TL2Y84DK5Z6)
   - Learned about security controls and threat actor mindset for asset protection.
   - **Skills Gained**: Authentication, Vulnerability Assessment, Cryptography, Asset Classification, Threat Analysis.
   >
-- **Sound the Alarm: Detection and Response**  [View certification](/assets/Detection-and-Response_certification.pdf)
+- **Sound the Alarm: Detection and Response**  [View certification](https://www.coursera.org/account/accomplishments/verify/TJ674LVC22GZ)
   - Understood the incident response lifecycle and tools for detection and response.
   - **Skills Gained**: Security Information and Event Management (SIEM) Tools, Packet Analyzer, Intrusion Detection Systems (IDS).
   - ***Completed Activity***
           - [Incident-handlers-journal](/assets/Sound-the-Alarm_Detection-and-Response/Incident-handler-s-journal.pdf)
    >
 
-- **Automate Cybersecurity Tasks with Python**  [View certification](/assets/Automate-Tasks-with-Python_certification.pdf)
+- **Automate Cybersecurity Tasks with Python**  [View certification](https://www.coursera.org/account/accomplishments/verify/C2XPZH3JR3EJ)
   - Wrote Python code to automate various cybersecurity tasks.
   - **Skills Gained**: Computer Programming, Python Programming, Coding, PEP 8 Style Guide.
    - ***Completed Activity***
@@ -125,7 +125,7 @@ In this comprehensive section, I document my journey through the Google Cybersec
      >
 
 
-- **Put It to Work: Prepare for Cybersecurity Jobs** [View certification](/assets/Prepare-for-Cybersecurity-Jobs_certification.pdf)
+- **Put It to Work: Prepare for Cybersecurity Jobs** [View certification](https://www.coursera.org/account/accomplishments/verify/JAH4LAPUZ9KU)
   - Prepared for the cybersecurity job market, learning about incident classification and stakeholder communication.
   - **Skills Gained**: Escalation, Stakeholder Communication, Integrity, Discretion.
   
