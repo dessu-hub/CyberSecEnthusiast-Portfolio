@@ -36,16 +36,16 @@ This section proudly showcases my certifications in cybersecurity, earned throug
   [View](/assets/google_cybersecurity_certification.pdf)
 
 - **Databases: Relational Databases and SQL, Stanford-edX** - August 28, 2023
-  [View](/assets/relational_databases_sql_certification.pdf)
+  [View](https://courses.edx.org/certificates/fc54b57ab0d549afad847638777083be)
 
 - **Databases: Advanced Topics in SQL, Stanford-edX** - March 1, 2024
-  [View](/assets/advanced_sql_topics_certification.pdf)
+  [View](https://courses.edx.org/certificates/021baebc48744b028a1a82e3f9d2a0d3)
 
 - **CS50's Introduction to Programming with Python, Harvard-edX**
  [CS50](/assets/cs50_python_programming_certification.pdf)  [HarvardX](https://courses.edx.org/certificates/e1c6def700604c6baf4e9dafbc63f9b8)
 
 - **Git for Distributed Software Development, Linux Foundation-edX** - October 2, 2023
-  [View](/assets/git_distributed_development_certification.pdf)
+  [View](https://courses.edx.org/certificates/e1cac93f280546419cda0e9a43061ec0)
 
 - **Nmap for Ethical Hackers, Udemy** - February 19, 2024
  [View](/assets/nmap_for_ethical_hackers.pdf)
